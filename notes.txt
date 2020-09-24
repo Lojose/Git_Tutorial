@@ -1,0 +1,21 @@
+GIT HUB 
+basic commands 
+	git init // initialize Local Repository 
+	git add <file> // Add File(s) to Index
+	git status // Check status of working tree 
+	git push Push to Remote Repository 
+	
+	git pull // pull the latest changes
+	git clone //Clone repository into a new directory 
+
+
+	git add <file> 
+	git add. // will add all files
+	git rm --cached index.html it undoes git add
+
+
+//
+1st git add <> 
+2nd edit file 
+3rd git add <>
+4th git commit
